@@ -1,0 +1,72 @@
+@model PP2.Models.ResultadoModel
+
+@{
+    ViewData["Title"] = "Resultado de operaciones binarias";
+}
+
+<h2>Resultado de operaciones binarias</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Operación</th>
+            <th>Binario</th>
+            <th>Decimal</th>
+            <th>Octal</th>
+            <th>Hexadecimal</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>A</td>
+            <td>@Model.A_Padded</td>
+            <td>@PP2.Helpers.BinaryHelper.ToDecimal(Model.A_Padded)</td>
+            <td>@PP2.Helpers.BinaryHelper.ToOctal(Model.A_Padded)</td>
+            <td>@PP2.Helpers.BinaryHelper.ToHex(Model.A_Padded)</td>
+        </tr>
+        <tr>
+            <td>B</td>
+            <td>@Model.B_Padded</td>
+            <td>@PP2.Helpers.BinaryHelper.ToDecimal(Model.B_Padded)</td>
+            <td>@PP2.Helpers.BinaryHelper.ToOctal(Model.B_Padded)</td>
+            <td>@PP2.Helpers.BinaryHelper.ToHex(Model.B_Padded)</td>
+        </tr>
+        <tr>
+            <td>A AND B</td>
+            <td>@Model.BinaryAnd</td>
+            <td>@PP2.Helpers.BinaryHelper.ToDecimal(Model.BinaryAnd)</td>
+            <td>@PP2.Helpers.BinaryHelper.ToOctal(Model.BinaryAnd)</td>
+            <td>@PP2.Helpers.BinaryHelper.ToHex(Model.BinaryAnd)</td>
+        </tr>
+        <tr>
+            <td>A OR B</td>
+            <td>@Model.BinaryOr</td>
+            <td>@PP2.Helpers.BinaryHelper.ToDecimal(Model.BinaryOr)</td>
+            <td>@PP2.Helpers.BinaryHelper.ToOctal(Model.BinaryOr)</td>
+            <td>@PP2.Helpers.BinaryHelper.ToHex(Model.BinaryOr)</td>
+        </tr>
+        <tr>
+            <td>A XOR B</td>
+            <td>@Model.BinaryXor</td>
+            <td>@PP2.Helpers.BinaryHelper.ToDecimal(Model.BinaryXor)</td>
+            <td>@PP2.Helpers.BinaryHelper.ToOctal(Model.BinaryXor)</td>
+            <td>@PP2.Helpers.BinaryHelper.ToHex(Model.BinaryXor)</td>
+        </tr>
+        <tr>
+            <td>A + B</td>
+            <td>@Model.BinarySum</td>
+            <td>@PP2.Helpers.BinaryHelper.ToDecimal(Model.BinarySum)</td>
+            <td>@PP2.Helpers.BinaryHelper.ToOctal(Model.BinarySum)</td>
+            <td>@PP2.Helpers.BinaryHelper.ToHex(Model.BinarySum)</td>
+        </tr>
+        <tr>
+            <td>A × B</td>
+            <td>@Model.BinaryMul</td>
+            <td>@PP2.Helpers.BinaryHelper.ToDecimal(Model.BinaryMul)</td>
+            <td>@PP2.Helpers.BinaryHelper.ToOctal(Model.BinaryMul)</td>
+            <td>@PP2.Helpers.BinaryHelper.ToHex(Model.BinaryMul)</td>
+        </tr>
+    </tbody>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary mt-3">Volver</a>

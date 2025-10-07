@@ -1,0 +1,25 @@
+﻿@model PP2.Models.BinarioModel
+
+@{
+    ViewData["Title"] = "Operaciones binarias";
+}
+
+<h2>Operaciones binarias</h2>
+
+<form asp-action="Index" method="post">
+    <div class="mb-3">
+        <label asp-for="a" class="form-label"></label>
+        <input asp-for="a" class="form-control" />
+        <span asp-validation-for="a" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="b" class="form-label"></label>
+        <input asp-for="b" class="form-control" />
+        <span asp-validation-for="b" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Calcular</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
