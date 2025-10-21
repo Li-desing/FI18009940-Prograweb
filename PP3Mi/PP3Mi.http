@@ -1,0 +1,6 @@
+@PP3Mi_HostAddress = http://localhost:5006
+
+GET {{PP3Mi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

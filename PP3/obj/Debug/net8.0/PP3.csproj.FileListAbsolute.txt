@@ -1,7 +1,0 @@
-C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP3\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP3\obj\Debug\net8.0\PP3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP3\obj\Debug\net8.0\PP3.AssemblyInfoInputs.cache
-C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP3\obj\Debug\net8.0\PP3.AssemblyInfo.cs
-C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP3\obj\Debug\net8.0\PP3.csproj.CoreCompileInputs.cache
-C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP3\obj\Debug\net8.0\PP3.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP3\obj\Debug\net8.0\PP3.sourcelink.json
