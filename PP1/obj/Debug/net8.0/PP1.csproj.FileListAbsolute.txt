@@ -1,0 +1,15 @@
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP1\bin\Debug\net8.0\PP1.exe
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP1\bin\Debug\net8.0\PP1.deps.json
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP1\bin\Debug\net8.0\PP1.runtimeconfig.json
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP1\bin\Debug\net8.0\PP1.dll
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP1\bin\Debug\net8.0\PP1.pdb
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP1\obj\Debug\net8.0\PP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP1\obj\Debug\net8.0\PP1.AssemblyInfoInputs.cache
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP1\obj\Debug\net8.0\PP1.AssemblyInfo.cs
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP1\obj\Debug\net8.0\PP1.csproj.CoreCompileInputs.cache
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP1\obj\Debug\net8.0\PP1.sourcelink.json
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP1\obj\Debug\net8.0\PP1.dll
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP1\obj\Debug\net8.0\refint\PP1.dll
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP1\obj\Debug\net8.0\PP1.pdb
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP1\obj\Debug\net8.0\PP1.genruntimeconfig.cache
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\PP1\obj\Debug\net8.0\ref\PP1.dll
