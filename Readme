@@ -1,0 +1,22 @@
+PP3 Practica Programada 3 Nombre: Lineth Leiva Vargas Carneé: FI8009940
+
+Comandos utilizados en (CLI) 
+*  dotnet new sln -n PP3Solutio
+*  dotnet new web -n PP3
+*  dotnet sln add PP3
+*  dotnet run
+
+Recursos Consultados GitHub Copilot en Visual Studio
+
+1. ¿Es posible enviar valores en el Body (por ejemplo, en el Form) del Request de tipo GET?
+
+No es lo habitual pero si se pueden enviar valores en el body, pero lo recomendable ees utilizar POST o PUT. 
+
+2. ¿Qué ventajas y desventajas observa con el Minimal API si se compara con la opción de utilizar Controllers?
+
+Ventaja: muy simple o sencillo a la vista 
+Desventaja: cuando se va programando se puede volver un poco más largo y se ve un poco desordenado. 
+
+
+
+Profe me da un error de compilación y no logro ver por que es igual volvi a crear el proyecto de cero para ver si fue que coloque algo mal pero sigue dando error. 
