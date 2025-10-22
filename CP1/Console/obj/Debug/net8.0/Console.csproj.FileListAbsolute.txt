@@ -1,0 +1,15 @@
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\Caso de estudio\CP1\Console\obj\Debug\net8.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\Caso de estudio\CP1\Console\obj\Debug\net8.0\Console.AssemblyInfoInputs.cache
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\Caso de estudio\CP1\Console\obj\Debug\net8.0\Console.AssemblyInfo.cs
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\Caso de estudio\CP1\Console\obj\Debug\net8.0\Console.csproj.CoreCompileInputs.cache
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\Caso de estudio\CP1\Console\obj\Debug\net8.0\Console.sourcelink.json
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\Caso de estudio\CP1\Console\bin\Debug\net8.0\Console.exe
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\Caso de estudio\CP1\Console\bin\Debug\net8.0\Console.deps.json
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\Caso de estudio\CP1\Console\bin\Debug\net8.0\Console.runtimeconfig.json
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\Caso de estudio\CP1\Console\bin\Debug\net8.0\Console.dll
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\Caso de estudio\CP1\Console\bin\Debug\net8.0\Console.pdb
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\Caso de estudio\CP1\Console\obj\Debug\net8.0\Console.dll
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\Caso de estudio\CP1\Console\obj\Debug\net8.0\refint\Console.dll
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\Caso de estudio\CP1\Console\obj\Debug\net8.0\Console.pdb
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\Caso de estudio\CP1\Console\obj\Debug\net8.0\Console.genruntimeconfig.cache
+C:\Users\linet\OneDrive\Documentos\2025\FI18009940-Prograweb\Caso de estudio\CP1\Console\obj\Debug\net8.0\ref\Console.dll
